@@ -1,2 +1,2 @@
 # sib-pos
-- databse ada di dalam folder database
+- database ada di dalam folder database
